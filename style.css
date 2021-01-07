@@ -1,0 +1,37 @@
+
+
+
+
+
+img{
+    width: 300px;
+    border: 10px groove rgb(231, 35, 133)
+    border-radius: 10%;
+}
+
+h1{
+    font-family:The Girl Next Door;
+    color:lavenderblush;
+    background-color: rgb(231, 35, 133);
+}
+
+h2{
+    font-family:The Girl Next Door;
+    background-color: rgb(231, 35, 133);
+    color:lavenderblush
+    
+
+}
+
+body{
+    background-image: url('clouds.jpg');
+    background-size: cover;
+    
+}
+
+ul{
+    color:lavenderblush;
+    font-size: large;
+    background-color: rgb(231, 35, 133);
+    padding: 10px;
+}
